@@ -1,0 +1,841 @@
+College,Application Deadline,Status
+Trinity College of Nursing and Health Sciences,1-Nov-18,27 DAYS
+University of Florida,1-Nov-18,27 DAYS
+San Jose State University,29-Nov-18,OPEN
+California Maritime Academy,30-Nov-18,OPEN
+California Polytechnic State University San Luis Obispo,30-Nov-18,OPEN
+California State Polytechnic University Pomona,30-Nov-18,OPEN
+California State University Chico,30-Nov-18,OPEN
+California State University East Bay,30-Nov-18,OPEN
+California State University Fresno,30-Nov-18,OPEN
+California State University Fullerton,30-Nov-18,OPEN
+California State University Long Beach,30-Nov-18,OPEN
+California State University Los Angeles,30-Nov-18,OPEN
+California State University Monterey Bay,30-Nov-18,OPEN
+California State University Northridge,30-Nov-18,OPEN
+California State University Sacramento,30-Nov-18,OPEN
+California State University San Bernardino,30-Nov-18,OPEN
+California State University San Marcos,30-Nov-18,OPEN
+California State University Stanislaus,30-Nov-18,OPEN
+Humboldt State University,30-Nov-18,OPEN
+San Diego State University,30-Nov-18,OPEN
+San Francisco State University,30-Nov-18,OPEN
+Sonoma State University,30-Nov-18,OPEN
+University of California Berkeley,30-Nov-18,OPEN
+University of California Davis,30-Nov-18,OPEN
+University of California Irvine,30-Nov-18,OPEN
+University of California Los Angeles,30-Nov-18,OPEN
+University of California Merced,30-Nov-18,OPEN
+University of California Riverside,30-Nov-18,OPEN
+University of California San Diego,30-Nov-18,OPEN
+University of California Santa Barbara,30-Nov-18,OPEN
+University of California Santa Cruz,30-Nov-18,OPEN
+Cleveland Institute of Music,1-Dec-18,OPEN
+Manhattan School of Music,1-Dec-18,OPEN
+Marquette University,1-Dec-18,OPEN
+San Francisco Conservatory of Music,1-Dec-18,OPEN
+The Juilliard School,1-Dec-18,OPEN
+The University of Tennessee,1-Dec-18,OPEN
+The University of Texas at Austin,1-Dec-18,OPEN
+University of Illinois at Urbana Champaign,1-Dec-18,OPEN
+University of South Carolina Columbia,1-Dec-18,OPEN
+University of Washington Seattle Campus,1-Dec-18,OPEN
+United States Air Force Academy,31-Dec-18,OPEN
+Yale University,31-Dec-18,OPEN
+Amherst College,1-Jan-19,OPEN
+Babson College,1-Jan-19,OPEN
+Bard College,1-Jan-19,OPEN
+Barnard College,1-Jan-19,OPEN
+Bates College,1-Jan-19,OPEN
+Boston College,1-Jan-19,OPEN
+Boston University,1-Jan-19,OPEN
+Bowdoin College,1-Jan-19,OPEN
+Brandeis University,1-Jan-19,OPEN
+Brown University,1-Jan-19,OPEN
+Claremont McKenna College,1-Jan-19,OPEN
+Colby College,1-Jan-19,OPEN
+College of William and Mary,1-Jan-19,OPEN
+Columbia University in the City of New York,1-Jan-19,OPEN
+Connecticut College,1-Jan-19,OPEN
+Cooper Union for the Advancement of Science and Art,1-Jan-19,OPEN
+Dartmouth College,1-Jan-19,OPEN
+Fashion Institute of Technology,1-Jan-19,OPEN
+Fordham University,1-Jan-19,OPEN
+Franklin W. Olin College of Engineering,1-Jan-19,OPEN
+Georgia Institute of Technology Main Campus,1-Jan-19,OPEN
+Hamilton College,1-Jan-19,OPEN
+Hampshire College,1-Jan-19,OPEN
+Harvard University,1-Jan-19,OPEN
+Harvey Mudd College,1-Jan-19,OPEN
+Johns Hopkins University,1-Jan-19,OPEN
+Lehigh University,1-Jan-19,OPEN
+Massachusetts Institute of Technology,1-Jan-19,OPEN
+Middlebury College,1-Jan-19,OPEN
+New York University,1-Jan-19,OPEN
+Northeastern University,1-Jan-19,OPEN
+Northwestern University,1-Jan-19,OPEN
+Pitzer College,1-Jan-19,OPEN
+Pomona College,1-Jan-19,OPEN
+Princeton University,1-Jan-19,OPEN
+Rice University,1-Jan-19,OPEN
+Sarah Lawrence College,1-Jan-19,OPEN
+Scripps College,1-Jan-19,OPEN
+St Mary's College of Maryland,1-Jan-19,OPEN
+Stanford University,1-Jan-19,OPEN
+SUNY at Geneseo,1-Jan-19,OPEN
+Swarthmore College,1-Jan-19,OPEN
+Syracuse University,1-Jan-19,OPEN
+Trinity College,1-Jan-19,OPEN
+Tufts University,1-Jan-19,OPEN
+University of Chicago,1-Jan-19,OPEN
+University of Miami,1-Jan-19,OPEN
+University of Notre Dame,1-Jan-19,OPEN
+University of Pennsylvania,1-Jan-19,OPEN
+University of Rochester,1-Jan-19,OPEN
+University of Virginia Main Campus,1-Jan-19,OPEN
+Vanderbilt University,1-Jan-19,OPEN
+Vassar College,1-Jan-19,OPEN
+Wake Forest University,1-Jan-19,OPEN
+Washington and Lee University,1-Jan-19,OPEN
+Wesleyan University,1-Jan-19,OPEN
+Williams College,1-Jan-19,OPEN
+Cornell University,2-Jan-19,OPEN
+Davidson College,2-Jan-19,OPEN
+Duke University,2-Jan-19,OPEN
+Bennington College,3-Jan-19,OPEN
+California Institute of Technology,3-Jan-19,OPEN
+Louisiana Tech University,3-Jan-19,OPEN
+California Institute of the Arts,5-Jan-19,OPEN
+Emerson College,5-Jan-19,OPEN
+Pepperdine University,5-Jan-19,OPEN
+Pratt Institute Main,5-Jan-19,OPEN
+Bentley University,7-Jan-19,OPEN
+Santa Clara University,7-Jan-19,OPEN
+Elon University,10-Jan-19,OPEN
+George Washington University,10-Jan-19,OPEN
+Georgetown University,10-Jan-19,OPEN
+Occidental College,10-Jan-19,OPEN
+University of North Carolina at Chapel Hill,10-Jan-19,OPEN
+University of Southern California,10-Jan-19,OPEN
+Wheaton College,10-Jan-19,OPEN
+American University,15-Jan-19,OPEN
+Berklee College of Music,15-Jan-19,OPEN
+Bryn Mawr College,15-Jan-19,OPEN
+Bucknell University,15-Jan-19,OPEN
+Carleton College,15-Jan-19,OPEN
+Case Western Reserve University,15-Jan-19,OPEN
+Centre College,15-Jan-19,OPEN
+Chapman University,15-Jan-19,OPEN
+Clark University,15-Jan-19,OPEN
+Clarkson University,15-Jan-19,OPEN
+Colgate University,15-Jan-19,OPEN
+College of the Holy Cross,15-Jan-19,OPEN
+Colorado College,15-Jan-19,OPEN
+Denison University,15-Jan-19,OPEN
+Drexel University,15-Jan-19,OPEN
+Embry Riddle Aeronautical University Prescott,15-Jan-19,OPEN
+Emory University,15-Jan-19,OPEN
+Fairfield University,15-Jan-19,OPEN
+Florida State University,15-Jan-19,OPEN
+Franklin and Marshall College,15-Jan-19,OPEN
+Furman University,15-Jan-19,OPEN
+George Mason University,15-Jan-19,OPEN
+Grinnell College,15-Jan-19,OPEN
+Haverford College,15-Jan-19,OPEN
+James Madison University,15-Jan-19,OPEN
+Kenyon College,15-Jan-19,OPEN
+Lafayette College,15-Jan-19,OPEN
+Lawrence University,15-Jan-19,OPEN
+Loyola Marymount University,15-Jan-19,OPEN
+Loyola University Maryland,15-Jan-19,OPEN
+Macalester College,15-Jan-19,OPEN
+Mills College,15-Jan-19,OPEN
+Mount Holyoke College,15-Jan-19,OPEN
+Oberlin College,15-Jan-19,OPEN
+Providence College,15-Jan-19,OPEN
+Reed College,15-Jan-19,OPEN
+Rensselaer Polytechnic Institute,15-Jan-19,OPEN
+Rhodes College,15-Jan-19,OPEN
+Salisbury University,15-Jan-19,OPEN
+Skidmore College,15-Jan-19,OPEN
+Smith College,15-Jan-19,OPEN
+Soka University of America,15-Jan-19,OPEN
+Southern California Institute of Architecture,15-Jan-19,OPEN
+St Olaf College,15-Jan-19,OPEN
+Stonehill College,15-Jan-19,OPEN
+Stony Brook University,15-Jan-19,OPEN
+The College of New Jersey,15-Jan-19,OPEN
+Tulane University of Louisiana,15-Jan-19,OPEN
+Union College,15-Jan-19,OPEN
+University of Colorado Boulder,15-Jan-19,OPEN
+University of Connecticut,15-Jan-19,OPEN
+University of Delaware,15-Jan-19,OPEN
+University of Denver,15-Jan-19,OPEN
+University of Georgia,15-Jan-19,OPEN
+University of Illinois at Chicago,15-Jan-19,OPEN
+University of Massachusetts Amherst,15-Jan-19,OPEN
+University of Oregon,15-Jan-19,OPEN
+University of Puget Sound,15-Jan-19,OPEN
+University of Richmond,15-Jan-19,OPEN
+University of the Pacific,15-Jan-19,OPEN
+University of Vermont,15-Jan-19,OPEN
+Villanova University,15-Jan-19,OPEN
+Virginia Commonwealth University,15-Jan-19,OPEN
+Virginia Polytechnic Institute and State University,15-Jan-19,OPEN
+Washington University in St Louis,15-Jan-19,OPEN
+Wellesley College,15-Jan-19,OPEN
+Wheaton College,15-Jan-19,OPEN
+Whitman College,15-Jan-19,OPEN
+University of Maryland College Park,20-Jan-19,OPEN
+Champlain College,31-Jan-19,OPEN
+United States Naval Academy,31-Jan-19,OPEN
+Warren Wilson College,31-Jan-19,OPEN
+Baylor University,1-Feb-19,OPEN
+Birmingham Southern College,1-Feb-19,OPEN
+Brigham Young University Idaho,1-Feb-19,OPEN
+Brigham Young University Provo,1-Feb-19,OPEN
+Bryant University,1-Feb-19,OPEN
+Butler University,1-Feb-19,OPEN
+Christopher Newport University,1-Feb-19,OPEN
+Colorado State University Fort Collins,1-Feb-19,OPEN
+Cornell College,1-Feb-19,OPEN
+CUNY Bernard M Baruch College,1-Feb-19,OPEN
+CUNY New York City College of Technology,1-Feb-19,OPEN
+DePaul University,1-Feb-19,OPEN
+DePauw University,1-Feb-19,OPEN
+Dickinson College,1-Feb-19,OPEN
+Gettysburg College,1-Feb-19,OPEN
+Gonzaga University,1-Feb-19,OPEN
+Hobart William Smith Colleges,1-Feb-19,OPEN
+Ithaca College,1-Feb-19,OPEN
+John Carroll University,1-Feb-19,OPEN
+Knox College,1-Feb-19,OPEN
+Marist College,1-Feb-19,OPEN
+Merrimack College,1-Feb-19,OPEN
+Miami University,1-Feb-19,OPEN
+Nazareth College,1-Feb-19,OPEN
+North Carolina State University at Raleigh,1-Feb-19,OPEN
+Ohio State University,1-Feb-19,OPEN
+Old Dominion University,1-Feb-19,OPEN
+Quinnipiac University,1-Feb-19,OPEN
+Radford University,1-Feb-19,OPEN
+Randolph College,1-Feb-19,OPEN
+Rhode Island School of Design,1-Feb-19,OPEN
+Roger Williams University,1-Feb-19,OPEN
+Saint Joseph's University,1-Feb-19,OPEN
+Saint Marys College of California,1-Feb-19,OPEN
+Saint Michael's College,1-Feb-19,OPEN
+Seattle Pacific University,1-Feb-19,OPEN
+Sewanee The University of the South,1-Feb-19,OPEN
+Simmons College,1-Feb-19,OPEN
+Spelman College,1-Feb-19,OPEN
+St Lawrence University,1-Feb-19,OPEN
+St Louis College of Pharmacy,1-Feb-19,OPEN
+Stevens Institute of Technology,1-Feb-19,OPEN
+The New School,1-Feb-19,OPEN
+Transylvania University,1-Feb-19,OPEN
+Trinity University,1-Feb-19,OPEN
+United States Coast Guard Academy,1-Feb-19,OPEN
+University of Evansville,1-Feb-19,OPEN
+University of Mary Washington,1-Feb-19,OPEN
+University of Maryland Baltimore County,1-Feb-19,OPEN
+University of Michigan,1-Feb-19,OPEN
+University of New Hampshire Main Campus,1-Feb-19,OPEN
+University of North Carolina at Wilmington,1-Feb-19,OPEN
+University of Oklahoma Norman Campus,1-Feb-19,OPEN
+University of Portland,1-Feb-19,OPEN
+University of Rhode Island,1-Feb-19,OPEN
+University of Wisconsin Madison,1-Feb-19,OPEN
+Ursuline College,1-Feb-19,OPEN
+Virginia Military Institute,1-Feb-19,OPEN
+Wofford College,1-Feb-19,OPEN
+Worcester Polytechnic Institute,1-Feb-19,OPEN
+Abilene Christian University,15-Feb-19,OPEN
+Allegheny College,15-Feb-19,OPEN
+Assumption College,15-Feb-19,OPEN
+Brigham Young University Hawaii,15-Feb-19,OPEN
+Catholic University of America,15-Feb-19,OPEN
+College of the Atlantic,15-Feb-19,OPEN
+Creighton University,15-Feb-19,OPEN
+Drew University,15-Feb-19,OPEN
+Earlham College,15-Feb-19,OPEN
+Emmanuel College,15-Feb-19,OPEN
+Endicott College,15-Feb-19,OPEN
+Howard University,15-Feb-19,OPEN
+Iona College,15-Feb-19,OPEN
+Jewish Theological Seminary of America,15-Feb-19,OPEN
+Morehouse College,15-Feb-19,OPEN
+Muhlenberg College,15-Feb-19,OPEN
+Point Loma Nazarene University,15-Feb-19,OPEN
+Rollins College,15-Feb-19,OPEN
+Salve Regina University,15-Feb-19,OPEN
+Siena College,15-Feb-19,OPEN
+Texas Christian University,15-Feb-19,OPEN
+The College of Wooster,15-Feb-19,OPEN
+Towson University,15-Feb-19,OPEN
+University of Kentucky,15-Feb-19,OPEN
+University of Massachusetts Lowell,15-Feb-19,OPEN
+University of North Carolina at Asheville,15-Feb-19,OPEN
+Ursinus College,15-Feb-19,OPEN
+Wagner College,15-Feb-19,OPEN
+Washington College,15-Feb-19,OPEN
+Yeshiva University,15-Feb-19,OPEN
+United States Military Academy,28-Feb-19,OPEN
+Austin College,1-Mar-19,OPEN
+Bellin College,1-Mar-19,OPEN
+California State University Bakersfield,1-Mar-19,OPEN
+Coe College,1-Mar-19,OPEN
+Elizabethtown College,1-Mar-19,OPEN
+Flagler College St Augustine,1-Mar-19,OPEN
+Georgia State University,1-Mar-19,OPEN
+Grace College and Theological Seminary,1-Mar-19,OPEN
+Hampden Sydney College,1-Mar-19,OPEN
+Hampton University,1-Mar-19,OPEN
+Hanover College,1-Mar-19,OPEN
+Illinois State University,1-Mar-19,OPEN
+Lewis & Clark College,1-Mar-19,OPEN
+Lycoming College,1-Mar-19,OPEN
+Manhattanville College,1-Mar-19,OPEN
+Monmouth University,1-Mar-19,OPEN
+Montclair State University,1-Mar-19,OPEN
+Moody Bible Institute,1-Mar-19,OPEN
+Moravian College and Moravian Theological Seminary,1-Mar-19,OPEN
+Mount St Mary's University,1-Mar-19,OPEN
+New Jersey Institute of Technology,1-Mar-19,OPEN
+Ramapo College of New Jersey,1-Mar-19,OPEN
+Randolph Macon College,1-Mar-19,OPEN
+Rose Hulman Institute of Technology,1-Mar-19,OPEN
+SUNY at Albany,1-Mar-19,OPEN
+Susquehanna University,1-Mar-19,OPEN
+Temple University,1-Mar-19,OPEN
+University of Dallas,1-Mar-19,OPEN
+University of Dayton,1-Mar-19,OPEN
+University of Hawaii at Manoa,1-Mar-19,OPEN
+University of North Carolina at Greensboro,1-Mar-19,OPEN
+University of Scranton,1-Mar-19,OPEN
+University of South Florida Main Campus,1-Mar-19,OPEN
+Washington & Jefferson College,1-Mar-19,OPEN
+Wells College,1-Mar-19,OPEN
+Western Carolina University,1-Mar-19,OPEN
+Western Washington University,1-Mar-19,OPEN
+Westfield State University,1-Mar-19,OPEN
+Whitworth University,1-Mar-19,OPEN
+Appalachian State University,15-Mar-19,OPEN
+Cleveland Institute of Art,15-Mar-19,OPEN
+CUNY Hunter College,15-Mar-19,OPEN
+East Carolina University,15-Mar-19,OPEN
+Juniata College,15-Mar-19,OPEN
+Rhode Island College,15-Mar-19,OPEN
+Southern Methodist University,15-Mar-19,OPEN
+University of Minnesota Morris,15-Mar-19,OPEN
+University of North Carolina School of the Arts,15-Mar-19,OPEN
+Arcadia University,1-Apr-19,OPEN
+Colby Sawyer College,1-Apr-19,OPEN
+College of Charleston,1-Apr-19,OPEN
+Colorado School of Mines,1-Apr-19,OPEN
+East Stroudsburg University of Pennsylvania,1-Apr-19,OPEN
+Elmira College,1-Apr-19,OPEN
+Keene State College,1-Apr-19,OPEN
+Le Moyne Owen College,1-Apr-19,OPEN
+Maine Maritime Academy,1-Apr-19,OPEN
+Maryland Institute College of Art,1-Apr-19,OPEN
+Menlo College,1-Apr-19,OPEN
+Minneapolis College of Art and Design,1-Apr-19,OPEN
+Mount Carmel College of Nursing,1-Apr-19,OPEN
+Nebraska Methodist College of Nursing & Allied Health,1-Apr-19,OPEN
+New Jersey City University,1-Apr-19,OPEN
+Plymouth State University,1-Apr-19,OPEN
+Saint Vincent College,1-Apr-19,OPEN
+Southern Connecticut State University,1-Apr-19,OPEN
+State University of New York at New Paltz,1-Apr-19,OPEN
+University of Houston,1-Apr-19,OPEN
+University of Iowa,1-Apr-19,OPEN
+University of Utah,1-Apr-19,OPEN
+Florida Memorial University,15-Apr-19,OPEN
+Louisiana State University and Agricultural & Mechanical College,15-Apr-19,OPEN
+Manhattan College,15-Apr-19,OPEN
+Marietta College,15-Apr-19,OPEN
+New College of Florida,15-Apr-19,OPEN
+Salem State University,15-Apr-19,OPEN
+San Francisco Art Institute,15-Apr-19,OPEN
+Baptist Memorial College of Health Sciences,1-May-19,OPEN
+Canisius College,1-May-19,OPEN
+Capital University,1-May-19,OPEN
+Carroll College,1-May-19,OPEN
+Clemson University,1-May-19,OPEN
+Cogswell College,1-May-19,OPEN
+Columbia College Chicago,1-May-19,OPEN
+Florida Atlantic University,1-May-19,OPEN
+Framingham State University,1-May-19,OPEN
+Georgia Southern University,1-May-19,OPEN
+Gods Bible School and College,1-May-19,OPEN
+Grand Valley State University,1-May-19,OPEN
+Huston Tillotson University,1-May-19,OPEN
+Indiana University Purdue University Indianapolis,1-May-19,OPEN
+Life Pacific College,1-May-19,OPEN
+Northeast Catholic College,1-May-19,OPEN
+Saint Edward's University,1-May-19,OPEN
+Southeastern University,1-May-19,OPEN
+Southern Illinois University Carbondale,1-May-19,OPEN
+Southern Illinois University Edwardsville,1-May-19,OPEN
+Southern Utah University,1-May-19,OPEN
+Texas State University,1-May-19,OPEN
+The Richard Stockton College of New Jersey,1-May-19,OPEN
+The University of Tennessee at Chattanooga,1-May-19,OPEN
+University of Arizona,1-May-19,OPEN
+University of Central Florida,1-May-19,OPEN
+University of Cincinnati Main Campus,1-May-19,OPEN
+University of Michigan Dearborn,1-May-19,OPEN
+University of Nebraska Lincoln,1-May-19,OPEN
+University of St Thomas,1-May-19,OPEN
+Virginia State University,1-May-19,OPEN
+Western Connecticut State University,1-May-19,OPEN
+Westminster College,1-May-19,OPEN
+Worcester State University,1-May-19,OPEN
+Kennesaw State University,9-May-19,OPEN
+Boise State University,15-May-19,OPEN
+Eastern Washington University,15-May-19,OPEN
+Florida Agricultural and Mechanical University,15-May-19,OPEN
+Western Illinois University,15-May-19,OPEN
+American Jewish University,31-May-19,OPEN
+Bard College at Simon's Rock,31-May-19,OPEN
+CUNY John Jay College of Criminal Justice,31-May-19,OPEN
+Kean University,31-May-19,OPEN
+University of Nevada Reno,31-May-19,OPEN
+Albany College of Pharmacy and Health Sciences,1-Jun-19,OPEN
+Azusa Pacific University,1-Jun-19,OPEN
+Central Connecticut State University,1-Jun-19,OPEN
+Clark Atlanta University,1-Jun-19,OPEN
+Fisk University,1-Jun-19,OPEN
+Hendrix College,1-Jun-19,OPEN
+Jacksonville University,1-Jun-19,OPEN
+Keystone College,1-Jun-19,OPEN
+North Central University,1-Jun-19,OPEN
+North Park University,1-Jun-19,OPEN
+Northwest College of Art,1-Jun-19,OPEN
+Ohio State University Mansfield Campus,1-Jun-19,OPEN
+Ohio State University Marion Campus,1-Jun-19,OPEN
+Ohio State University Newark Campus,1-Jun-19,OPEN
+Paul Quinn College,1-Jun-19,OPEN
+Prairie View A & M University,1-Jun-19,OPEN
+School of the Art Institute of Chicago,1-Jun-19,OPEN
+The University of Texas at San Antonio,1-Jun-19,OPEN
+University of Washington Tacoma Campus,1-Jun-19,OPEN
+University of West Georgia,1-Jun-19,OPEN
+William Paterson University of New Jersey,1-Jun-19,OPEN
+Liberty University,3-Jun-19,OPEN
+The College of Saint Thomas More,7-Jun-19,OPEN
+Alabama A & M University,15-Jun-19,OPEN
+Central Bible College,15-Jun-19,OPEN
+Metropolitan State University,15-Jun-19,OPEN
+Regis College,15-Jun-19,OPEN
+Saint Bonaventure University,15-Jun-19,OPEN
+University of Alaska Anchorage,15-Jun-19,OPEN
+University of Alaska Fairbanks,15-Jun-19,OPEN
+University of the District of Columbia,15-Jun-19,OPEN
+Valdosta State University,15-Jun-19,OPEN
+Georgia Gwinnett College,17-Jun-19,OPEN
+Art Academy of Cincinnati,30-Jun-19,OPEN
+Bethune Cookman University,30-Jun-19,OPEN
+Columbus State University,30-Jun-19,OPEN
+Presbyterian College,30-Jun-19,OPEN
+The University of West Florida,30-Jun-19,OPEN
+University of Maryland Eastern Shore,30-Jun-19,OPEN
+Virginia Union University,30-Jun-19,OPEN
+Wilberforce University,30-Jun-19,OPEN
+Alaska Bible College,1-Jul-19,OPEN
+Albany State University,1-Jul-19,OPEN
+Alice Lloyd College,1-Jul-19,OPEN
+Anderson University,1-Jul-19,OPEN
+Bethany Lutheran College,1-Jul-19,OPEN
+Bryn Athyn College of the New Church,1-Jul-19,OPEN
+Central Michigan University,1-Jul-19,OPEN
+Cincinnati Christian University,1-Jul-19,OPEN
+Clayton State University,1-Jul-19,OPEN
+Coastal Carolina University,1-Jul-19,OPEN
+College for Creative Studies,1-Jul-19,OPEN
+Concordia University Portland,1-Jul-19,OPEN
+Dalton State College,1-Jul-19,OPEN
+Dillard University,1-Jul-19,OPEN
+Dominican University,1-Jul-19,OPEN
+Duquesne University,1-Jul-19,OPEN
+Harding University,1-Jul-19,OPEN
+Harris Stowe State University,1-Jul-19,OPEN
+Iowa State University,1-Jul-19,OPEN
+Lincoln University of Pennsylvania,1-Jul-19,OPEN
+Longy School of Music,1-Jul-19,OPEN
+Marymount College,1-Jul-19,OPEN
+Mercer University,1-Jul-19,OPEN
+Mercy College of Health Sciences,1-Jul-19,OPEN
+Metropolitan State College of Denver,1-Jul-19,OPEN
+Millsaps College,1-Jul-19,OPEN
+Missouri University of Science and Technology,1-Jul-19,OPEN
+Montana State University Billings,1-Jul-19,OPEN
+Northeastern Illinois University,1-Jul-19,OPEN
+Northern Kentucky University,1-Jul-19,OPEN
+Our Lady of the Lake College,1-Jul-19,OPEN
+Paine College,1-Jul-19,OPEN
+Pennsylvania College of Technology,1-Jul-19,OPEN
+Piedmont College,1-Jul-19,OPEN
+Robert Morris University,1-Jul-19,OPEN
+Saint Augustines College,1-Jul-19,OPEN
+Southeast Missouri State University,1-Jul-19,OPEN
+Southern Polytechnic State University,1-Jul-19,OPEN
+Southern University and A & M College,1-Jul-19,OPEN
+Southern University at New Orleans,1-Jul-19,OPEN
+Texas A & M International University,1-Jul-19,OPEN
+The University of Texas at Brownsville,1-Jul-19,OPEN
+The University of Texas at Dallas,1-Jul-19,OPEN
+Unity College,1-Jul-19,OPEN
+University of Akron Main Campus,1-Jul-19,OPEN
+University of Hawaii at Hilo,1-Jul-19,OPEN
+University of Houston Downtown,1-Jul-19,OPEN
+University of Memphis,1-Jul-19,OPEN
+University of Nevada Las Vegas,1-Jul-19,OPEN
+University of North Carolina at Charlotte,1-Jul-19,OPEN
+University of Wisconsin Milwaukee,1-Jul-19,OPEN
+Winthrop University,1-Jul-19,OPEN
+Xavier University of Louisiana,1-Jul-19,OPEN
+Northwestern State University of Louisiana,6-Jul-19,OPEN
+Ohio State University Lima Campus,7-Jul-19,OPEN
+Averett University,15-Jul-19,OPEN
+Bowling Green State University Main Campus,15-Jul-19,OPEN
+Coppin State University,15-Jul-19,OPEN
+Divine Word College,15-Jul-19,OPEN
+Elmhurst College,15-Jul-19,OPEN
+Fort Valley State University,15-Jul-19,OPEN
+Johnson University Florida,15-Jul-19,OPEN
+Lincoln University,15-Jul-19,OPEN
+Mount Angel Seminary,15-Jul-19,OPEN
+Mount Vernon Nazarene University,15-Jul-19,OPEN
+Our Lady of the Lake University San Antonio,15-Jul-19,OPEN
+Philander Smith College,15-Jul-19,OPEN
+Savannah State University,15-Jul-19,OPEN
+Spring Hill College,15-Jul-19,OPEN
+SUNY at Purchase College,15-Jul-19,OPEN
+Texas Woman's University,15-Jul-19,OPEN
+The College of Idaho,15-Jul-19,OPEN
+The University of Texas of the Permian Basin,15-Jul-19,OPEN
+University of Wisconsin Parkside,15-Jul-19,OPEN
+Watkins College of Art Design & Film,15-Jul-19,OPEN
+Macon State College,16-Jul-19,OPEN
+Missouri State University Springfield,20-Jul-19,OPEN
+Georgia Southwestern State University,21-Jul-19,OPEN
+Baptist Missionary Association Theological Seminary,25-Jul-19,OPEN
+Berry College,25-Jul-19,OPEN
+University of New Orleans,25-Jul-19,OPEN
+Regent University,28-Jul-19,OPEN
+Shaw University,30-Jul-19,OPEN
+Allen University,31-Jul-19,OPEN
+Conception Seminary College,31-Jul-19,OPEN
+Fresno Pacific University,31-Jul-19,OPEN
+Patten University,31-Jul-19,OPEN
+South Carolina State University,31-Jul-19,OPEN
+The University of Texas at El Paso,31-Jul-19,OPEN
+Trinity College of Florida,31-Jul-19,OPEN
+Trinity Washington University,31-Jul-19,OPEN
+Alaska Pacific University,1-Aug-19,OPEN
+Alfred University,1-Aug-19,OPEN
+Auburn University at Montgomery,1-Aug-19,OPEN
+Barclay College,1-Aug-19,OPEN
+Belmont Abbey College,1-Aug-19,OPEN
+Belmont University,1-Aug-19,OPEN
+Bethel College North Newton,1-Aug-19,OPEN
+Blackburn College,1-Aug-19,OPEN
+Bloomfield College,1-Aug-19,OPEN
+Bob Jones University,1-Aug-19,OPEN
+Boise Bible College,1-Aug-19,OPEN
+Brevard College,1-Aug-19,OPEN
+Brewton Parker College,1-Aug-19,OPEN
+Campbellsville University,1-Aug-19,OPEN
+Cardinal Stritch University,1-Aug-19,OPEN
+Carson Newman College,1-Aug-19,OPEN
+Centenary College of Louisiana,1-Aug-19,OPEN
+Central Christian College of the Bible,1-Aug-19,OPEN
+Central State University,1-Aug-19,OPEN
+Chatham University,1-Aug-19,OPEN
+Clarion University of Pennsylvania,1-Aug-19,OPEN
+Coker College,1-Aug-19,OPEN
+Colorado Christian University,1-Aug-19,OPEN
+Colorado State University Pueblo,1-Aug-19,OPEN
+Columbia College,1-Aug-19,OPEN
+Columbia International University,1-Aug-19,OPEN
+Columbus College of Art and Design,1-Aug-19,OPEN
+Concordia University Saint Paul,1-Aug-19,OPEN
+Concordia University Seward,1-Aug-19,OPEN
+Converse College,1-Aug-19,OPEN
+Corban University,1-Aug-19,OPEN
+Delta State University,1-Aug-19,OPEN
+DeSales University,1-Aug-19,OPEN
+Dordt College,1-Aug-19,OPEN
+Drury University,1-Aug-19,OPEN
+Eastern Kentucky University,1-Aug-19,OPEN
+Elizabeth City State University,1-Aug-19,OPEN
+Emmanuel College,1-Aug-19,OPEN
+Eureka College,1-Aug-19,OPEN
+Ferris State University,1-Aug-19,OPEN
+Florida College,1-Aug-19,OPEN
+Fort Lewis College,1-Aug-19,OPEN
+Georgetown College,1-Aug-19,OPEN
+Goshen College,1-Aug-19,OPEN
+Hastings College,1-Aug-19,OPEN
+Heidelberg University,1-Aug-19,OPEN
+Hellenic College Holy Cross Greek Orthodox School of Theology,1-Aug-19,OPEN
+Hollins University,1-Aug-19,OPEN
+Huntington University,1-Aug-19,OPEN
+Husson University,1-Aug-19,OPEN
+Indiana University Purdue University Fort Wayne,1-Aug-19,OPEN
+Jackson State University,1-Aug-19,OPEN
+Jarvis Christian College,1-Aug-19,OPEN
+Johnson University,1-Aug-19,OPEN
+Kansas City Art Institute,1-Aug-19,OPEN
+Kentucky Christian University,1-Aug-19,OPEN
+Lamar University,1-Aug-19,OPEN
+Lane College,1-Aug-19,OPEN
+Long Island University Brooklyn Campus,1-Aug-19,OPEN
+Maharishi University of Management,1-Aug-19,OPEN
+Marian University,1-Aug-19,OPEN
+Martin Methodist College,1-Aug-19,OPEN
+McPherson College,1-Aug-19,OPEN
+Mid Continent University,1-Aug-19,OPEN
+MidAmerica Nazarene University,1-Aug-19,OPEN
+Midland University,1-Aug-19,OPEN
+Milligan College,1-Aug-19,OPEN
+Minnesota State University Moorhead,1-Aug-19,OPEN
+Muskingum University,1-Aug-19,OPEN
+New Hope Christian College,1-Aug-19,OPEN
+New Mexico Institute of Mining and Technology,1-Aug-19,OPEN
+Niagara University,1-Aug-19,OPEN
+North Carolina Central University,1-Aug-19,OPEN
+North Dakota State University Main Campus,1-Aug-19,OPEN
+Northern Illinois University,1-Aug-19,OPEN
+Northwestern College,1-Aug-19,OPEN
+Northwood University Michigan,1-Aug-19,OPEN
+Northwood University Texas,1-Aug-19,OPEN
+Nova Southeastern University,1-Aug-19,OPEN
+Oklahoma Baptist University,1-Aug-19,OPEN
+Olivet Nazarene University,1-Aug-19,OPEN
+Pacific Northwest College of Art,1-Aug-19,OPEN
+Presentation College,1-Aug-19,OPEN
+Purdue University Calumet Campus,1-Aug-19,OPEN
+Regis University,1-Aug-19,OPEN
+Rosemont College,1-Aug-19,OPEN
+Saint Cloud State University,1-Aug-19,OPEN
+Saint Joseph's College of Maine,1-Aug-19,OPEN
+Sam Houston State University,1-Aug-19,OPEN
+Schreiner University,1-Aug-19,OPEN
+Southeastern Louisiana University,1-Aug-19,OPEN
+Southwestern Christian College,1-Aug-19,OPEN
+Southwestern College,1-Aug-19,OPEN
+Spring Arbor University,1-Aug-19,OPEN
+Stephens College,1-Aug-19,OPEN
+Tarleton State University,1-Aug-19,OPEN
+Tennessee State University,1-Aug-19,OPEN
+Tennessee Technological University,1-Aug-19,OPEN
+Texas Lutheran University,1-Aug-19,OPEN
+Texas Tech University,1-Aug-19,OPEN
+The Baptist College of Florida,1-Aug-19,OPEN
+The University of Tennessee Martin,1-Aug-19,OPEN
+Thomas More College,1-Aug-19,OPEN
+Trine University,1-Aug-19,OPEN
+Truett McConnell College,1-Aug-19,OPEN
+Union College,1-Aug-19,OPEN
+University of Alaska Southeast,1-Aug-19,OPEN
+University of Arkansas,1-Aug-19,OPEN
+University of Hawaii West Oahu,1-Aug-19,OPEN
+University of Idaho,1-Aug-19,OPEN
+University of Minnesota Duluth,1-Aug-19,OPEN
+University of Montevallo,1-Aug-19,OPEN
+University of Nebraska at Omaha,1-Aug-19,OPEN
+University of North Texas,1-Aug-19,OPEN
+University of Northern Colorado,1-Aug-19,OPEN
+University of South Carolina Aiken,1-Aug-19,OPEN
+University of South Carolina Beaufort,1-Aug-19,OPEN
+University of St Francis,1-Aug-19,OPEN
+University of Valley Forge,1-Aug-19,OPEN
+University of Wisconsin Superior,1-Aug-19,OPEN
+University of Wisconsin Whitewater,1-Aug-19,OPEN
+Utah Valley University,1-Aug-19,OPEN
+Washburn University,1-Aug-19,OPEN
+Washington Adventist University,1-Aug-19,OPEN
+Webber International University,1-Aug-19,OPEN
+Webster University,1-Aug-19,OPEN
+Wesleyan College,1-Aug-19,OPEN
+West Virginia University,1-Aug-19,OPEN
+Western Kentucky University,1-Aug-19,OPEN
+Western New Mexico University,1-Aug-19,OPEN
+Wilmington College,1-Aug-19,OPEN
+Wilson College,1-Aug-19,OPEN
+Youngstown State University,1-Aug-19,OPEN
+Memphis College of Art,3-Aug-19,OPEN
+Mount Aloysius College,3-Aug-19,OPEN
+Austin Peay State University,5-Aug-19,OPEN
+Ozark Christian College,5-Aug-19,OPEN
+Point University,5-Aug-19,OPEN
+Southern Nazarene University,6-Aug-19,OPEN
+Lake Erie College,7-Aug-19,OPEN
+Midwestern State University,7-Aug-19,OPEN
+Laguna College of Art and Design,8-Aug-19,OPEN
+Saint Louis Christian College,8-Aug-19,OPEN
+The University of Texas Pan American,8-Aug-19,OPEN
+Guilford College,10-Aug-19,OPEN
+Langston University,10-Aug-19,OPEN
+University of South Alabama,10-Aug-19,OPEN
+University of Wyoming,10-Aug-19,OPEN
+West Virginia State University,10-Aug-19,OPEN
+Columbia College,12-Aug-19,OPEN
+American Indian College of the Assemblies of God Inc,14-Aug-19,OPEN
+Angelo State University,14-Aug-19,OPEN
+Edgewood College,14-Aug-19,OPEN
+Mount Mercy University,14-Aug-19,OPEN
+AIB College of Business,15-Aug-19,OPEN
+American International College,15-Aug-19,OPEN
+Arizona Christian University,15-Aug-19,OPEN
+Augsburg College,15-Aug-19,OPEN
+Ball State University,15-Aug-19,OPEN
+Baptist Bible College and Seminary,15-Aug-19,OPEN
+Bellarmine University,15-Aug-19,OPEN
+Bethel College Mishawaka,15-Aug-19,OPEN
+Bluffton University,15-Aug-19,OPEN
+Calvin College,15-Aug-19,OPEN
+Central Baptist College,15-Aug-19,OPEN
+Central College,15-Aug-19,OPEN
+Charleston Southern University,15-Aug-19,OPEN
+Cleary University,15-Aug-19,OPEN
+Cleveland State University,15-Aug-19,OPEN
+College of Mount St. Joseph,15-Aug-19,OPEN
+College of Saint Elizabeth,15-Aug-19,OPEN
+Concordia College New York,15-Aug-19,OPEN
+Concordia University Ann Arbor,15-Aug-19,OPEN
+Concordia University Wisconsin,15-Aug-19,OPEN
+Cornerstone University,15-Aug-19,OPEN
+Cornish College of the Arts,15-Aug-19,OPEN
+Covenant College,15-Aug-19,OPEN
+Crossroads College,15-Aug-19,OPEN
+CUNY Lehman College,15-Aug-19,OPEN
+Dallas Christian College,15-Aug-19,OPEN
+Defiance College,15-Aug-19,OPEN
+Eastern Illinois University,15-Aug-19,OPEN
+Francis Marion University,15-Aug-19,OPEN
+Goldey Beacom College,15-Aug-19,OPEN
+Grace University,15-Aug-19,OPEN
+Grand View University,15-Aug-19,OPEN
+Hawaii Pacific University,15-Aug-19,OPEN
+Hebrew Theological College,15-Aug-19,OPEN
+Hiram College,15-Aug-19,OPEN
+Holy Names University,15-Aug-19,OPEN
+Hood College,15-Aug-19,OPEN
+Indiana Institute of Technology,15-Aug-19,OPEN
+Indiana State University,15-Aug-19,OPEN
+Kuyper College,15-Aug-19,OPEN
+Lake Superior State University,15-Aug-19,OPEN
+Louisiana College,15-Aug-19,OPEN
+Lubbock Christian University,15-Aug-19,OPEN
+Lyme Academy College of Fine Arts,15-Aug-19,OPEN
+Maryville University of Saint Louis,15-Aug-19,OPEN
+McMurry University,15-Aug-19,OPEN
+Mid America Christian University,15-Aug-19,OPEN
+Moore College of Art and Design,15-Aug-19,OPEN
+Mount Ida College,15-Aug-19,OPEN
+Mount Saint Mary College,15-Aug-19,OPEN
+Murray State University,15-Aug-19,OPEN
+Nebraska Wesleyan University,15-Aug-19,OPEN
+Northern New Mexico College,15-Aug-19,OPEN
+Northwest Nazarene University,15-Aug-19,OPEN
+Northwest University,15-Aug-19,OPEN
+Northwestern College,15-Aug-19,OPEN
+Ohio Northern University,15-Aug-19,OPEN
+Ohio Valley University,15-Aug-19,OPEN
+Otterbein University,15-Aug-19,OPEN
+Pacific University,15-Aug-19,OPEN
+Prescott College,15-Aug-19,OPEN
+Reinhardt University,15-Aug-19,OPEN
+Sacred Heart Major Seminary,15-Aug-19,OPEN
+Saint Catharine College,15-Aug-19,OPEN
+Saint Joseph's College New York,15-Aug-19,OPEN
+Seton Hill University,15-Aug-19,OPEN
+Shepherd University,15-Aug-19,OPEN
+Southwestern Adventist University,15-Aug-19,OPEN
+Texas A & M University Commerce,15-Aug-19,OPEN
+The King?s College,15-Aug-19,OPEN
+The University of Virginia's College at Wise,15-Aug-19,OPEN
+Union University,15-Aug-19,OPEN
+University of Dubuque,15-Aug-19,OPEN
+University of Maine at Augusta,15-Aug-19,OPEN
+University of Maine at Machias,15-Aug-19,OPEN
+University of Minnesota Crookston,15-Aug-19,OPEN
+University of Northern Iowa,15-Aug-19,OPEN
+University of Pikeville,15-Aug-19,OPEN
+University of Southern Indiana,15-Aug-19,OPEN
+University of the Cumberlands,15-Aug-19,OPEN
+Viterbo University,15-Aug-19,OPEN
+Walsh University,15-Aug-19,OPEN
+Westminster College,15-Aug-19,OPEN
+Westmont College,15-Aug-19,OPEN
+William Jewell College,15-Aug-19,OPEN
+William Woods University,15-Aug-19,OPEN
+Clarkson College,16-Aug-19,OPEN
+East Texas Baptist University,17-Aug-19,OPEN
+Arkansas State University Main Campus,18-Aug-19,OPEN
+Crown College,18-Aug-19,OPEN
+Henderson State University,18-Aug-19,OPEN
+McNeese State University,18-Aug-19,OPEN
+University of Central Missouri,19-Aug-19,OPEN
+University of Louisville,19-Aug-19,OPEN
+Bethany College,20-Aug-19,OPEN
+Central Methodist University College of Liberal Arts & Sciences,20-Aug-19,OPEN
+Delaware State University,20-Aug-19,OPEN
+Eastern New Mexico University Main Campus,20-Aug-19,OPEN
+North Greenville University,20-Aug-19,OPEN
+Saint John Vianney College Seminary,20-Aug-19,OPEN
+Saint Louis University Main Campus,20-Aug-19,OPEN
+The University of Texas at Tyler,20-Aug-19,OPEN
+University of Alabama at Huntsville,20-Aug-19,OPEN
+University of Michigan Flint,20-Aug-19,OPEN
+Weber State University,21-Aug-19,OPEN
+Grand Canyon University,22-Aug-19,OPEN
+Avila University,25-Aug-19,OPEN
+Dakota Wesleyan University,25-Aug-19,OPEN
+Fayetteville State University,25-Aug-19,OPEN
+University of Houston Victoria,25-Aug-19,OPEN
+University of Missouri St Louis,25-Aug-19,OPEN
+Hannibal LaGrange University,26-Aug-19,OPEN
+University of Wisconsin Green Bay,26-Aug-19,OPEN
+Limestone College,27-Aug-19,OPEN
+Southern Arkansas University Main Campus,27-Aug-19,OPEN
+Marygrove College,28-Aug-19,OPEN
+Sierra Nevada College,28-Aug-19,OPEN
+Nevada State College,29-Aug-19,OPEN
+Dean College,30-Aug-19,OPEN
+Rivier College,30-Aug-19,OPEN
+SUNY Institute of Technology at Utica Rome,30-Aug-19,OPEN
+Bluefield College,31-Aug-19,OPEN
+Shasta Bible College and Graduate School,31-Aug-19,OPEN
+The College of New Rochelle,31-Aug-19,OPEN
+York College,31-Aug-19,OPEN
+Boston Architectural College,1-Sep-19,OPEN
+Eastern Nazarene College,1-Sep-19,OPEN
+Eastern Oregon University,1-Sep-19,OPEN
+Heritage University,1-Sep-19,OPEN
+Lakeland College,1-Sep-19,OPEN
+Lasell College,1-Sep-19,OPEN
+Life University,1-Sep-19,OPEN
+Mercyhurst College,1-Sep-19,OPEN
+Missouri Valley College,1-Sep-19,OPEN
+Northern State University,1-Sep-19,OPEN
+Oklahoma Christian University,1-Sep-19,OPEN
+Oregon State University,1-Sep-19,OPEN
+Southwest Minnesota State University,1-Sep-19,OPEN
+SUNY Maritime College,1-Sep-19,OPEN
+University of Arkansas at Little Rock,1-Sep-19,OPEN
+University of Nebraska at Kearney,1-Sep-19,OPEN
+University of Science and Arts of Oklahoma,1-Sep-19,OPEN
+Southern Virginia University,2-Sep-19,OPEN
+Wiley College,3-Sep-19,OPEN
+Oakland City University,8-Sep-19,OPEN
+Baker College of Jackson,19-Sep-19,OPEN
+Baker College of Flint,20-Sep-19,OPEN
+Baker College of Allen Park,24-Sep-19,OPEN
+Baker College of Cadillac,24-Sep-19,OPEN
+Baker College of Muskegon,24-Sep-19,OPEN
+Baker College of Port Huron,24-Sep-19,OPEN
